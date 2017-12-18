@@ -1,4 +1,5 @@
 一.Dreamweaver
+  (程式碼/分割/設計)
 1.新增網站
   網站->新增網站->本機網站資料夾>Company2/WebContent
 2.新增 index.html
@@ -8,11 +9,12 @@
        add.html,
        choicequery.html,
        qname.html
- 4.新增 index.html內容
+ 4.新增 index.html內容,增加其他html內容
    插入->表格->列:4,欄:5
  5.新增圖檔
    新增 pic Folder
-   加入1.jpg,2.jpg,3.jpg
+   加入 1.jpg,2.jpg,3.jpg
+   資源->重新整理網站清單
 
 二.Eclipse
 1.新增專案
@@ -37,5 +39,7 @@
    Source->Generate Getter and Setters
    
 三.課程講解
+  A.前端UI
+    1.HTML/CSS
 
 /*------2017/12/18------*/
