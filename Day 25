@@ -17,6 +17,11 @@
   -sum:int
   ----------
   Company(名,尺,筆)
-
+  
+  1).計算總計 x*39 y*28
+  2).滿2000打9折(*0.9)
+  
+ 3.新增參數的 Get & Set
+   Source->Generate Getter and Setters
 
 /*------2017/12/18------*/
