@@ -5,9 +5,18 @@
 二.Eclipse
 1.新增專案
   File->New->Dynamic Web Project->Project name:=>Company2
-2.新增Java class
-  File->New->Folder->src->Folder name:com
-
+2.新增 company class
+  File->New->Folder->src->Folder name:=>com
+  File->New->Class->Name:=>company.java
+  
+  +Company
+  ----------
+  -name:String
+  -x:int
+  -y:int
+  -sum:int
+  ----------
+  Company(名,尺,筆)
 
 
 /*------2017/12/18------*/
