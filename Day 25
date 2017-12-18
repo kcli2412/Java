@@ -1,6 +1,18 @@
 一.Dreamweaver
-
-
+1.新增網站
+  網站->新增網站->本機網站資料夾>Company2/WebContent
+2.新增 index.html
+  檔案->開新檔案->index.html
+3.新增 product Folder
+  新增 index.html,
+       add.html,
+       choicequery.html,
+       qname.html
+ 4.新增 index.html內容
+   插入->表格->列:4,欄:5
+ 5.新增圖檔
+   新增 pic Folder
+   加入1.jpg,2.jpg,3.jpg
 
 二.Eclipse
 1.新增專案
@@ -23,5 +35,7 @@
   
  3.新增參數的 Get & Set
    Source->Generate Getter and Setters
+   
+三.課程講解
 
 /*------2017/12/18------*/
