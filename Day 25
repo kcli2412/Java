@@ -41,5 +41,17 @@
 三.課程講解
   A.前端UI
     1.HTML/CSS
+    2.JavaScript
+    3.DreamWeaver=>網頁
+      Photoshop
+      illustrator
+  B.後端Server->Database(Eclipse->SSH)
+    1.Java->Jsp
+    2.Asp.Net->C#
+    3.PHP
+  C.MVC
+    1.Model=>定義class
+    2.View=>UI介面
+    3.Controller=>操作方式(超連結,按鈕),帶入class
 
 /*------2017/12/18------*/
