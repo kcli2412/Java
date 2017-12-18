@@ -23,6 +23,7 @@
   File->New->Folder->src->Folder name:=>com
   File->New->Class->Name:=>company.java
   
+3.Company Class 內容
   +Company
   ----------
   -name:String
@@ -32,10 +33,10 @@
   ----------
   Company(名,尺,筆)
   
-  1).計算總計 x*39 y*28
-  2).滿2000打9折(*0.9)
+  1).計算總計 sum=x*39+y*28
+  2).滿2000打9折(*0.9) sum=sum*0.9
   
- 3.新增參數的 Get & Set
+ 4.新增參數的 Get & Set
    Source->Generate Getter and Setters
    
 三.課程講解
