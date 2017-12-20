@@ -1,4 +1,4 @@
-使用專案 Company2
+A.使用專案 Company2
 
 一.Eclipse
 1.add WebContent->WEB-INF->lib=>mysql-connector-java-5.1.45-bin.jar
@@ -11,7 +11,31 @@
   4).使用方法,結合資料庫
 4.新增 query.jsp
 
-二.課程講解
+
+B.建立新專案 Company3
+
+一.Dreamweaver
+  (RWD => Responsive Web Document)
+1.新增網站
+  網站->新增網站->本機網站資料夾>Company3/WebContent
+2.新增 index.html
+  檔案->開新檔案->初學著範本->Responsive Starters->部落格文章->index.html
+3.新增 product Folder
+  新增 index.html,
+       檔案->開新檔案->初學著範本->Responsive Starters->電子商務->index.html
+ 4.CSS設計工具,調整各內容的背景色
+ 5.新增圖檔
+   新增 pic Folder
+   加入 d1.jpg,d2.jpg,d3.jpg
+   資源->重新整理網站清單
+   將圖檔加入到index.html
+
+二.Eclipse
+1.新增專案
+  File->New->Dynamic Web Project->Project name:=>Company3
+
+
+C.課程講解
 1.String進行比對時是要讀取value,所以要用equals.
   只有數值比對是用==
 2.MySQL的SQL語法如果在執行失敗時,可以用``將參數標註
