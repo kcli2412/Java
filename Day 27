@@ -2,10 +2,12 @@
 1).NetBeaus->開發JAR
    =>M(Model)=>Class
    JDK=>JRE版本
+(M)
 2).設計介面=>Web
    =>adobe=>V(View)
+(V)
 3).程式設計操作方式
    =>JSP
-
+(C)
 
 /*------2017/12/21------*/
