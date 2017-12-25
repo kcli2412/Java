@@ -5,6 +5,13 @@
        A.@override要注意.
        B.onCreate()->同main()一樣.
     3).內部類別用很多,繼承較少.
+  2.Java
+    1).seesion=>Tomcat->Servlet API->HttpSession
+       A.setAttribute
+       B.getAttribute
+
+二.使用專案 pcschool
+  
 
 
 /*------2017/12/25------*/
