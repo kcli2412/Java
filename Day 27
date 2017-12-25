@@ -1,13 +1,40 @@
 一.課程複習
-1).NetBeaus->開發JAR
-   =>M(Model)=>Class
-   JDK=>JRE版本
-(M)
-2).設計介面=>Web
-   =>adobe=>V(View)
-(V)
-3).程式設計操作方式
-   =>JSP
-(C)
+1.全端工程師
+  1).前端UI
+     A.HTML
+     B.CSS
+     C.JavaScript->Node.js
+     D.Dreamweaver/Illustrator
+  2).後端Web&資料庫
+     A.Java->JSP
+     B.Database
+2.MVC
+  1).NetBeaus->開發JAR(M)
+     =>M(Model)=>Class
+     JDK=>JRE版本
+  2).設計介面=>Web(V)
+     =>adobe=>V(View)
+
+  3).程式設計操作方式(C)
+     =>JSP
+     
+2.JAVA JDK 安裝1.8版本
+3.
+  1).*.JAR
+  2).Doc文件
+  
+二.NetBeans 自製API
+   (Projects/Files/Services)
+1.New Project
+  File->New Project->Java->Java Application
+  Project Name:pcscool
+  Project Location:C:\web\workspace
+2.New Java Package
+  pcschool->src=>New->Java Package=>com
+3.New s1,s2 Folder
+  pcschool->src->com=>New->Folder=>s1
+  pcschool->src->com=>New->Folder=>s2
+
 
 /*------2017/12/21------*/
+n

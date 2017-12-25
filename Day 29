@@ -1,0 +1,21 @@
+一.課程講解
+1.Android
+  1).UI->XML(排版,Html)
+  2).Activity
+     A.@override要注意.
+     B.onCreate()->同main()一樣.
+  3).內部類別用很多,繼承較少.
+2.Java
+  1).seesion=>Tomcat->Servlet API->HttpSession
+     A.setAttribute
+     B.getAttribute
+
+二.使用專案 pcschool
+  
+  
+  
+三.建立 Mobile 版面設計
+1.
+
+
+/*------2017/12/25------*/
