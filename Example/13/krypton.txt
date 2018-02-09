@@ -1,5 +1,0 @@
-class krypton extends Animal
-{
-
-
-}

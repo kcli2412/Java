@@ -1,5 +1,0 @@
-class seaplane extends Airplane
-{
-
-
-}

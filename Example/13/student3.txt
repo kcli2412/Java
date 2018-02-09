@@ -1,9 +1,0 @@
-package school.sa;
-
-interface student3
-{
-	String show();
-	void abc();
-
-
-}
